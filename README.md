@@ -1,4 +1,4 @@
-## Hi there 🤘🏽
+## 🐝 Hi there 🤘🏽
 Welcome, My name is Marie Tolteca, a current graduate student at UC Santa Barbara in the Master's in Environmental Data Science program at Bren School of Environmental Science & Management. Below you can find out on recent projects, I have been working on.
 
 <!--
