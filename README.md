@@ -1,4 +1,4 @@
-## 🐝 Hi there 🤘🏽
+# 🐝 Hi there 🤘🏽
 Welcome, My name is Marie, an alumni from UC Santa Barbara in the Master's in Environmental Data Science program at Bren School of Environmental Science & Management. **Below you can find out on recent projects, I have been working on.**
 
 ### Education
@@ -6,7 +6,7 @@ Welcome, My name is Marie, an alumni from UC Santa Barbara in the Master's in En
 - B.S. in Environmental Science, Technology, and Policy
 - A.A. in Natural Sciences
 
-# Lets Connect!🌱
+### Lets Connect!🌱
 If you would like to connect here is my [LinkedIn](https://www.linkedin.com/in/marietolteca/)
 
 <!--
