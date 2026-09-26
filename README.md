@@ -1,5 +1,13 @@
 ## 🐝 Hi there 🤘🏽
-Welcome, My name is Marie Tolteca, a current graduate student at UC Santa Barbara in the Master's in Environmental Data Science program at Bren School of Environmental Science & Management. Below you can find out on recent projects, I have been working on.
+Welcome, My name is Marie, an alumni from UC Santa Barbara in the Master's in Environmental Data Science program at Bren School of Environmental Science & Management. **Below you can find out on recent projects, I have been working on.**
+
+### Education
+- M.S. in Master's in Environmental Data Science
+- B.S. in Environmental Science, Technology, and Policy
+- A.A. in Natural Sciences
+
+# Lets Connect!🌱
+If you would like to connect here is my [LinkedIn](https://www.linkedin.com/in/marietolteca/)
 
 <!--
 **marietolteca00/marietolteca00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
